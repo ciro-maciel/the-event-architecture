@@ -1,1 +1,1 @@
-# the-event-driven-architecture
+# the-event-architecture
