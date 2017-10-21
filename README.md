@@ -1,1 +1,1 @@
-# the-event-architecture
+# the-event-web
