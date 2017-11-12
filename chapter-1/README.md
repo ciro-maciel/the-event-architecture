@@ -17,3 +17,9 @@
 - http://microservices.io/index.html
 - https://martinfowler.com/articles/201701-event-driven.html
 - https://serverless.com/blog/event-driven-serverless-app-local-dev-exp/
+
+### Codes
+- https://aws.amazon.com/pt/blogs/compute/continuous-deployment-for-serverless-applications/
+- https://serverless.com/framework/docs/providers/aws/guide/functions/
+- https://aws.amazon.com/pt/codepipeline/
+- http://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/use-custom-authorizer.html
