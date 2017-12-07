@@ -1,4 +1,5 @@
 
+- https://martinfowler.com/articles/serverless.html
 - https://serverless.com/blog/anatomy-of-a-serverless-app/
 - https://github.com/awslabs/aws-serverless-express
 - https://martinfowler.com/bliki/CQRS.html
@@ -23,3 +24,13 @@
 - https://serverless.com/framework/docs/providers/aws/guide/functions/
 - https://aws.amazon.com/pt/codepipeline/
 - http://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/use-custom-authorizer.html
+
+### Stages
+- https://serverless.com/framework/docs/providers/aws/cli-reference/deploy-function/
+- https://serverless.com/framework/docs/providers/aws/guide/workflow/#using-stages
+- https://serverless.com/framework/docs/providers/aws/guide/variables/
+- https://github.com/serverless/examples/issues/25
+
+### Architecture
+- https://www.youtube.com/watch?v=rgfww8tLM0A
+- 
