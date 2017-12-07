@@ -33,4 +33,4 @@
 
 ### Architecture
 - https://www.youtube.com/watch?v=rgfww8tLM0A
-- 
+- https://www.youtube.com/watch?v=dCDZ7HR7dms
